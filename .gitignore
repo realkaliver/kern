@@ -1,0 +1,7 @@
+# Local staging area for built release artifacts.
+#
+# Builds reach people through Google Play, and any sideload APK reaches them as
+# a GitHub Release asset uploaded to a tag -- never committed. This repo exists
+# to stay small and source-free, and a tracked APK per version would undo that.
+# Build into releases/, upload from it, and let git ignore it entirely.
+releases/
