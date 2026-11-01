@@ -5,3 +5,7 @@
 # to stay small and source-free, and a tracked APK per version would undo that.
 # Build into releases/, upload from it, and let git ignore it entirely.
 releases/
+
+/build/
+
+/build/
