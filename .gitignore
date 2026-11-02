@@ -6,6 +6,4 @@
 # Build into releases/, upload from it, and let git ignore it entirely.
 releases/
 
-/build/
-
-/build/
+build/
